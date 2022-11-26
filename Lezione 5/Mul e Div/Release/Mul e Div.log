@@ -1,0 +1,3 @@
+﻿  Assembling mul_div.asm...
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Mul e Div.vcxproj -> C:\Users\falco\OneDrive\Desktop\CalcolatoriLAB\Lezioni\Lezione 5\Mul e Div\Release\Mul e Div.exe

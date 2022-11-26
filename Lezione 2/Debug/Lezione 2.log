@@ -1,0 +1,2 @@
+﻿  main.c
+C:\Users\falco\OneDrive\Desktop\CalcolatoriLAB\Lezioni\Lezione 2\main.c(5,1): warning C4047: 'initializing': 'unsigned int *' differs in levels of indirection from 'int'
