@@ -1,0 +1,3 @@
+﻿  main.c
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  String To Int and Into To String.vcxproj -> C:\Users\Giuseppe\Desktop\Calcolatori Lab\String To Int and Into To String\Release\String To Int and Into To String.exe
