@@ -4,7 +4,7 @@ int ContaDivisori(int num, int max, int *divisori);
 
 int main(void) {
 	int num = 20;
-	int max = 9;
+	int max = 100;
 	int divisori[255];
 	ContaDivisori(num, max, divisori);
 
@@ -18,8 +18,13 @@ int main(void) {
 		return;
 	}
 	for (i = 0; divisori[i] != 0; i++) {
-		printf("%d, ", divisori[i]);
+		if (divisori[i + 1] != 0) {
+			printf("%d, ", divisori[i]);
+		}
+		else {
+			printf("%d", divisori[i]);
+		}
 	}
-	printf("%d}", divisori[i]);
+	printf("}");
 	
 }
