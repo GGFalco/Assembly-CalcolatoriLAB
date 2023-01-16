@@ -1,0 +1,4 @@
+﻿  Assembling function.asm...
+  main.c
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Cerca Parola.vcxproj -> C:\Users\Giuseppe\Desktop\Calcolatori Lab\Cerca Parola\Release\Cerca Parola.exe
