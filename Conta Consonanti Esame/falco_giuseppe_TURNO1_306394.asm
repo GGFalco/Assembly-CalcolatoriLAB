@@ -11,6 +11,7 @@ push ebx
 push ecx
 push edx
 	; Corpo Funzione			(stringa, aggiuntivo)
+							mov bx, 0A00Ah
 							mov ebx, dword ptr[ebp + 8]
 							mov esi, 0
 							mov edi, 0							; qui tengo conto della SOMMA delle CONSONANTI minuscole
