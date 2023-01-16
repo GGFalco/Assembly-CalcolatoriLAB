@@ -1,0 +1,4 @@
+﻿  Assembling function.asm...
+  main.c
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Somma Modulo x2.vcxproj -> C:\Users\Giuseppe\Desktop\Calcolatori Lab\Somma Modulo x2\Release\Somma Modulo x2.exe
